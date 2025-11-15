@@ -3,7 +3,7 @@ public class GenericLinkedList<T> {
 
 
     private static class Node<T> {
-        T data; // Veri
+        T data; 
         Node<T> next;
 
         public Node(T data) {
