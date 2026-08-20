@@ -34,5 +34,27 @@ public class Main {
     */
 
 
+
+        /*               Custom Binary Tree Test Case
+
+        CustomBinaryTree<Integer> intTree = new CustomBinaryTree<>();
+        intTree.insert(50);
+        intTree.insert(30);
+        intTree.insert(70);
+        intTree.insert(20);
+        intTree.insert(40);
+        intTree.displayInOrder();
+
+
+        CustomBinaryTree<String> stringTree = new CustomBinaryTree<>();
+        stringTree.insert("Java");
+        stringTree.insert("Spring");
+        stringTree.insert("Backend");
+        stringTree.insert("API");
+        stringTree.displayInOrder();
+
+        */
+
+
     }
 }
